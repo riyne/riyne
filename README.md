@@ -5,7 +5,7 @@
 </div>
 <h1 align="center"> Nice to meet you, I'm Ryan!</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=18&center=true&vCenter=true&width=490&lines=Computer+Science+@+UBC;Software+Engineering+Intern+@+CANMORA+TECH+Inc.;Looking+Foward+to+Connecting+with+You!" alt="Computer Science @ UBC" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=18&center=true&vCenter=true&width=490&lines=Computer+Science+@+UBC;Software+Engineer+Intern+@+CANMORA+TECH+Inc.;Looking+Foward+to+Connecting+with+You!" alt="Computer Science @ UBC" />
 </p>
 
 ```python

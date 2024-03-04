@@ -5,7 +5,7 @@
 </div>
 <h1 align="center"> Nice to meet you, I'm Ryan!</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=18&center=true&vCenter=true&width=485&lines=Electrical+and+Computer+Eningeering+@+UBC;Software+Engineering+Intern+@+Boeing;Looking+Foward+to+Connecting+with+You!" alt="Computer Science @ UBC" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=18&center=true&vCenter=true&width=485&lines=Electrical+and+Computer+Eningeering+@+UBC;Software+Engineering+Intern+@+CANMORA TECH Inc.;Looking+Foward+to+Connecting+with+You!" alt="Computer Science @ UBC" />
 </p>
 
 ```python
@@ -38,8 +38,8 @@ if __name__ == '__main__':
 
 ## Some of My GitHub Stats
 <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kputhanangadi&show_icons=true&theme=chartreuse-dark&layout=compact&hide_border=true" alt="riyne" /> 
-<img width="56%" src="https://github-readme-streak-stats.herokuapp.com/?user=kputhanangadi&theme=highcontrast&hide_border=true" alt="riyne" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=riyne&show_icons=true&theme=chartreuse-dark&layout=compact&hide_border=true" alt="riyne" /> 
+<img width="56%" src="https://github-readme-streak-stats.herokuapp.com/?user=riyne&theme=highcontrast&hide_border=true" alt="riyne" />
 </p>
 
 ## Where to Find Me

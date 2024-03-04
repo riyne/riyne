@@ -1,10 +1,40 @@
-### Hi there 👋
+class GitHubBio:
+    def __init__(kevin):
+        kevin.internship_experience = [
+            {
+                "company":  "Boeing",
+                "position": "Software Engineering Intern",
+                "duration": "Winter 2024"
+            },
+            {
+                "company":  "UBC",
+                "position": "Machine Learning Research Assitant",
+                "duration": "Fall 2023"
+            },
+            {
+                "company":  "EPSON",
+                "position": "Software Engineering Intern",
+                "duration": "Summer 2023"
+            },
+            {
+                "company":  "ROBOKIDS",
+                "position": "Software Engineering Intern",
+                "duration": "Summer 2022"
+            }
+        ]
+        kevin.education = [
+            {
+                "university": "The University of British Columbia",
+                "major":      "Electrical and Computer Engineering",
+                "graduation": "May 2025"
+            }
+        ]
+        kevin.fields_of_interests = [
+            "Software Development",
+            "Machine Learning",
+            "Autonomous Vehicles",
+        ]
 
-
-**riyne/riyne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-@@ -13,4 +13,4 @@ Here are some ideas to get you started:
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+if __name__ == '__main__':
+    GitHubBio_instance = GitHubBio()
+    GitHubBio_instance.display_bio()

@@ -5,7 +5,7 @@
 </div>
 <h1 align="center"> Nice to meet you, I'm Ryan!</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=18&center=true&vCenter=true&width=490&lines=Computer+Science+@+UBC;Prev+Software+Engineer+Intern+@+CANMORA+TECH;Looking+Foward+to+Connecting+with+You!" alt="Computer Science @ UBC" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=18&center=true&vCenter=true&width=490&lines=Computer+Science+@+UBC;Incoming+Software+Developer+Co-op+@+Policy+Reporter+by+Mercalis;Looking+Foward+to+Connecting+with+You!" alt="Computer Science @ UBC" />
 </p>
 
 ```python
@@ -13,8 +13,13 @@ class GitHubBio:
     def __init__(ryan):
         ryan.internship_experience = [
             {
+                "company":  "Policy Reporter by Mercalis",
+                "position": "Software Developer Co-op",
+                "duration": "Fall 2024"
+            }
+            {
                 "company":  "CANMORA TECH Inc.",
-                "position": "Software Engineering Intern",
+                "position": "Software Engineering Co-op",
                 "duration": "Winter 2024"
             }
         ]

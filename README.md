@@ -13,12 +13,12 @@ class GitHubBio:
     def __init__(ryan):
         ryan.internship_experience = [
             {
-                "company":  "Policy Reporter by Mercalis",
+                "company":  "Policy Reporter",
                 "position": "Software Developer Co-op",
                 "duration": "Fall 2024"
             }
             {
-                "company":  "CANMORA TECH Inc.",
+                "company":  "Canmora Tech",
                 "position": "Software Engineering Co-op",
                 "duration": "Winter 2024"
             }
@@ -27,7 +27,7 @@ class GitHubBio:
             {
                 "university": "The University of British Columbia",
                 "major":      "Computer Science",
-                "graduation": "November 2026"
+                "graduation": "December 2026"
             }
         ]
         ryan.fields_of_interests = [

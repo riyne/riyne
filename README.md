@@ -32,7 +32,7 @@ class GitHubBio:
         ]
         ryan.fields_of_interests = [
             "Software Development",
-            "Cyber Security",
+            "Snowboarding",
             "Photography",
         ]
 
